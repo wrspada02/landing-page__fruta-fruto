@@ -1,0 +1,23 @@
+
+    .imagem--carrossel__first{
+        object-fit: cover;/* Deixa nossa imagem proporcional com o container */
+        object-position: 0 80%;
+        height: 400px;
+    }
+
+    .imagem--carrossel__second{
+        object-fit: cover;/* Deixa nossa imagem proporcional com o container */
+        height: 400px;
+    }
+
+    .carrossel__titulo__container{
+        height: 50%;
+    }
+
+    .carrosel__titulo, .fonte-titulo{
+        font-family: 'Pacifico', cursive;
+    }
+
+    .corEspecial{
+        color: darkred;
+    }
