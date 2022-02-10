@@ -1,4 +1,8 @@
 
+    .cardLargura{
+        width: 18rem;
+    }
+
     .imagem--carrossel__first{
         object-fit: cover;/* Deixa nossa imagem proporcional com o container */
         object-position: 0 80%;
@@ -20,4 +24,19 @@
 
     .corEspecial{
         color: darkred;
+    }
+
+    .botaoCorEspecial{
+        background-color: darkred;
+        color: white;
+    }
+
+    .bordaCorEspecial{
+        border-color: darkred;
+    }
+
+    .cardPosicaoImagem{
+        object-fit: cover;/* Deixa nossa imagem proporcional com o container */
+/*         object-position: 0 80%; */
+        height: 200px;
     }
