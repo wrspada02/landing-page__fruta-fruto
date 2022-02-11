@@ -1,6 +1,8 @@
 
-    .cardLargura{
+    .cardStyle{
         width: 18rem;
+        margin: 4rem 6.5rem;
+
     }
 
     .imagem--carrossel__first{
@@ -23,7 +25,7 @@
     }
 
     .corEspecial{
-        color: darkred;
+        color: darkred!important;
     }
 
     .botaoCorEspecial{
@@ -43,4 +45,8 @@
 
     .alignCards{
         justify-content: center;
+    }
+
+    .formNomeStyle{
+        padding: 0 1rem;
     }
